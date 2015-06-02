@@ -1,0 +1,6 @@
+*.pper
+*.Rproj
+.Rproj.*
+.Rbuildignore
+.Rhistory
+.Rproj.user
