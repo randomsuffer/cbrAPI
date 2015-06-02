@@ -30,3 +30,9 @@ Install 7zip using
 ```
 sudo apt-get install p7zip-rar
 ```
+
+## Known issues
+Package now is in it's beta version. Here're some things I'll fix in near future:
+1. Check unrar tools in .onLoad() rather than every time the function is invoked.
+2. Build vignettes.
+3. Check latest available date of report before download.
