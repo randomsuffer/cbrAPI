@@ -4,7 +4,7 @@
 
 The goal of this project is to make available to users all over the world the unique data of the accounting statements of Russian banks, which is collected by the Central Bank of Russian Federation. Data is represented as archived dbf files (database files). The package provides the opportunity to download these archives from the Central Bank's website, read them and load into R. You can download any of the five forms of the accounting reports (101, 102, 123, 134, 135) for any given time period or over the entire available. You can also get detailed information on any Bank, knowing his registration number to find out the name, address, is it registered it in the Deposit Insurance Agency, is it went bankrupt or not.
 
-#### Installation:
+## Installation:
 
 ```r
 library(devtools)
@@ -30,9 +30,6 @@ Install 7zip using
 ```
 sudo apt-get install p7zip-rar
 ```
-
-## Vignettes
-After installation you defenitely would like to see the examples of using cbrAPI. To do so, go to [project's wiki](https://github.com/randomsuffer/cbrAPI/wiki/The-very-beginning)!
 
 ## Known issues
 Package now is in it's beta version. Here're some things I'll fix in near future:
