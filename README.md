@@ -33,6 +33,10 @@ sudo apt-get install p7zip-rar
 
 ## Vignettes
 After installation you defenitely would like to see the examples of using cbrAPI. To do so, go to [project's wiki](https://github.com/randomsuffer/cbrAPI/wiki/The-very-beginning)!
+Also you can always use
+```r
+vignette(package = "cbrAPI")
+```
 
 ## Known issues
 Package now is in it's beta version. Here're some things I'll fix in near future:
