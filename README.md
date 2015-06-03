@@ -19,7 +19,7 @@ Download unrar tools from [RARLAB site](http://www.rarlab.com/rar/unrarw32.exe) 
 
 #### For OS X
 Using Terminal enter
-```
+```shell
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew install unrar
 ```
@@ -27,7 +27,7 @@ but I should say, that the package can do that itself :)
 
 #### For Unix
 Install 7zip using
-```
+```shell
 sudo apt-get install p7zip-rar
 ```
 
