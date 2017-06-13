@@ -5,3 +5,4 @@
 *.RData
 *.txt
 .gitignore
+.Rproj.user
